@@ -28,6 +28,7 @@ var sum = function(array) {
   return array[0] + sum(array.slice(1)); 
 };
 
+//some changed text
 
 
 // 3. Sum all numbers in an array containing nested arrays.
